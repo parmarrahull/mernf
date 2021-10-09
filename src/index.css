@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  background-color: orangered !important;
+}
+
+.ant-table-container {
+  background-color: orangered !important;
+}
+
+a {
+  color: #61dafb;
+}
+
+.navbar{
+  width: 100%; 
+  line-height: 60px;
+  background-color: #333;
+  flex: 1; 
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-around; 
+}
+
+.signup {
+  text-align: center;
+  top: 50%;
+  left: 35%;
+  padding: 30px 18px;
+}
+
+.sub_but {
+  cursor: pointer;
+}
